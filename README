@@ -1,0 +1,24 @@
+Hello:
+
+Thank you for deciding to use Time::WorldTime. Documentation for this 
+module should be installed at the same time as this module.  If you are 
+impatient, this documentation is extracted from the bottom of the 
+"WorldTime.pm" file, which is in POD format, so you may look there.
+
+Installation is standard:
+
+perl Makefile.pl
+make
+make test
+make install
+
+Time::WorldTime is Copyright 2000 (c) Philip Mikal. All rights reserved. 
+This program is free software; you can redistribute it and/or modify it under 
+the same terms as Perl itself.
+
+Enjoy!
+
+
+Philip Mikal
+http://mikal.org
+
